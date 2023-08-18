@@ -1,0 +1,28 @@
+body{
+
+	background: #26A1AC;
+	width: 80%;
+	margin: 0 auto;
+	//*background: url("../img/Acer_Wallpaper_03_5000x2814.jpg") ;*//
+
+}	
+nav a{
+	text-decoration: none;
+	color: darkred;
+
+}
+nav a:hover{text-decoration: overline;
+font-weight: bold;
+text-shadow: 0 0 4px white;
+}
+form {
+	border: 1px #aaa solid;
+	box-shadow: 0 0 5px darkred;
+	padding: 30px;
+	width: 150px;
+}
+.btn{
+	width: 80px;
+	background: lightblue;
+	
+}
